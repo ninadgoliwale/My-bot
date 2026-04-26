@@ -8,7 +8,7 @@ from flask import Flask
 from threading import Thread
 
 # ============ CONFIGURATION ============
-TOKEN = "8656575185:AAEDhnFhFqwJmFPzg2H8Oc09VqGOboI4oF8"
+TOKEN = "8656575185:AAHNVzAN8u8Iha9igHwiocPJv4RO2KKZyHM"
 OWNER_ID = 8558052873
 
 # ============ WEB SERVER FOR 24/7 ============
