@@ -10,14 +10,14 @@ TOKEN = "8656575185:AAEDhnFhFqwJmFPzg2H8Oc09VqGOboI4oF8"
 OWNER_ID = 8558052873
 
 # Premium emojis
-⭐ = "⭐"
-✅ = "✅"
-❌ = "❌"
-⚠️ = "⚠️"
-🔒 = "🔒"
-🔓 = "🔓"
-📊 = "📊"
-👑 = "👑"
+STAR = "⭐"
+CHECK = "✅"
+CROSS = "❌"
+WARNING = "⚠️"
+LOCK = "🔒"
+UNLOCK = "🔓"
+CHART = "📊"
+CROWN = "👑"
 
 # Database setup
 conn = sqlite3.connect('escrow.db', check_same_thread=False)
